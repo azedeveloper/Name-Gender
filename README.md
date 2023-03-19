@@ -8,10 +8,10 @@
 
     <h3>Self-host it by downloading it and running: </h3>
 
-    ```
-    npm i
-    npm run serve
-    ```
+    
+    `npm i`
+    `npm run serve`
+    
 
     ⚠️ This project was made in like 1 hour just to learn a bit of Vue, so you can expect some bugs.
 </div>
