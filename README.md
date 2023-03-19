@@ -7,6 +7,7 @@
     <p>Or</p>
 
     <h3>Self-host it by downloading it and running: </h3>
+
     ```
     npm i
     npm run serve
