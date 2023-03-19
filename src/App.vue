@@ -87,6 +87,10 @@ export default {
     color: white;
   }
 
+  #logo {
+    width: 100px;
+  }
+
   @media only screen and (max-width: 500px) {
     input {
       width: 300px;

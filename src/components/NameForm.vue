@@ -1,5 +1,6 @@
 <template>
   <div>
+    <img src="../assets/logo.png" alt="Logo" id="logo">
     <h1>What gender is your name?</h1>
     <input v-model="name" type="text" placeholder="name">
     <button @click="submitName">Go!</button>
